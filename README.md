@@ -4,8 +4,6 @@
 
 Ini adalah proyek aplikasi web sederhana untuk Pendaftaran Siswa Baru yang dibangun menggunakan PHP Native, database MySQL, dan antarmuka pengguna yang modern dengan Tailwind CSS. Aplikasi ini mengimplementasikan fungsionalitas **CRUD** (Create, Read, Update, Delete) secara penuh.
 
-![Halaman Utama](Screenshot%202025-07-04%20224451.png)
-
 ## ✨ Fitur Utama
 
 * **Tambah Data Siswa:** Mendaftarkan siswa baru melalui formulir yang intuitif.
@@ -18,23 +16,24 @@ Ini adalah proyek aplikasi web sederhana untuk Pendaftaran Siswa Baru yang diban
 
 ## 📸 Tampilan Aplikasi
 
-Berikut adalah tampilan dari setiap halaman utama pada aplikasi.
-
-### Halaman Daftar Siswa
-Halaman ini menampilkan semua data siswa yang sudah terdaftar dalam bentuk tabel. Dari sini, pengguna dapat mengakses aksi lihat detail, edit, dan hapus.
-![Halaman Daftar Siswa](Screenshot%202025-07-04%20224809.png)
+### Tampilan Utama
+![Tampilan Utama](Hasil/Tampilan%20Halaman%20Utama.png)
 
 ### Halaman Detail Siswa
-Menampilkan informasi pribadi yang lebih lengkap dari seorang siswa yang dipilih.
-![Halaman Detail Siswa](Screenshot%202025-07-04%20224825.jpg)
+![Halaman Detail Siswa](Hasil/Halamam%20Detail%20Siswa.png)
 
-### Halaman Edit Siswa
-Menyajikan formulir yang sudah terisi dengan data siswa saat ini, memungkinkan pengguna untuk melakukan pembaruan informasi.
-![Halaman Edit Siswa](Screenshot%202025-07-04%20224841.png)
+### Tampilan Database (MySQL)
+![Tampilan Database MySQL](Hasil/tampilan%20Mysql.png)
 
-### Proses Hapus Data
-Ketika ikon hapus diklik, sebuah dialog konfirmasi dari browser akan muncul untuk memastikan tindakan tersebut. Jika disetujui, data akan dihapus dari database oleh skrip `hapus.php`.
-![Konfirmasi Hapus](peweb%20backend%20hapus.mp4)
+---
+
+## 🎥 Demo Fungsionalitas (Video)
+
+Karena file video tidak bisa ditampilkan langsung, berikut adalah link untuk melihat demo fungsionalitasnya:
+
+* **[Lihat Demo Tampilan Daftar Siswa](Hasil/Tampilan%20Daftar%20siswa.mp4)**
+* **[Lihat Demo Edit Data](Hasil/CRUD%20Edit.mp4)**
+* **[Lihat Demo Hapus Data](Hasil/CRUD%20Delete.mp4)**
 
 ---
 
